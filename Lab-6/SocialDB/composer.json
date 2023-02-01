@@ -1,0 +1,19 @@
+{
+  "name": "user1/social-db",
+  "authors": [
+    {
+      "name": "Roman",
+      "email": "rborisov@codemastersintl.com"
+    }
+  ],
+  "require": {
+    "symfony/console": "^5.2",
+    "ext-pdo": "*",
+    "ext-cassandra": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "SocialDB\\": "src/"
+    }
+  }
+}

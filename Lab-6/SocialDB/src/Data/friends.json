@@ -1,0 +1,32 @@
+[
+  {
+    "fromUserId": 1,
+    "sendDate": "2013-01-24T00:00:00",
+    "status": 1,
+    "toUserId": 3
+  },
+  {
+    "fromUserId": 2,
+    "sendDate": "2013-02-27T00:00:00",
+    "status": 1,
+    "toUserId": 4
+  },
+  {
+    "fromUserId": 1,
+    "sendDate": "2013-01-02T00:00:00",
+    "status": 1,
+    "toUserId": 5
+  },
+  {
+    "fromUserId": 5,
+    "sendDate": "2013-03-15T00:00:00",
+    "status": 2,
+    "toUserId": 1
+  },
+  {
+    "fromUserId": 2,
+    "sendDate": "2013-02-09T00:00:00",
+    "status": 3,
+    "toUserId": 3
+  }
+]

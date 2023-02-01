@@ -1,0 +1,23 @@
+[
+  {
+    "authorId": 1,
+    "likes": [
+      59,
+      73,
+      84,
+      85,
+      47,
+      67
+    ],
+    "id": 1,
+    "sendDate": "2019-02-27T00:00:00",
+    "text": "How is the weather?"
+  },
+  {
+    "authorId": 1,
+    "likes": [],
+    "id": 3,
+    "sendDate": "2019-03-23T00:00:00",
+    "text": "Today a great day!"
+  }
+]

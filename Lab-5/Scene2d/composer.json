@@ -1,0 +1,16 @@
+{
+  "name": "lab/Scene2d",
+  "type": "project",
+  "require": {
+    "ext-readline": "*",
+    "ext-gd": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "9.3.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "Scene2d\\": "src/"
+    }
+  }
+}
